@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="my_name">Saikat Rahman</string>
+    <string name="bio">Hi, my name is Saikat Rahman.\n\nI am a software engineer.\n\nNow I work in Summit Communication Limited as an android developer.\n\nI complete my graduation BSc in CSE from Daffodil International University and now I study my post-graduation MSc in CSE (MAJOR IN DATA SCIENCE) from Daffodil International University.\n\nMy dream is to work with a giant company as a software engineer.\n\nI am very passionate about my career. I want to see myself as a team leader with some intelligent DEV OPS Community.\n\nMy dream is to develop software for everyone in a new era.\n\nI love to read books, watching series, movies.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+</resources>
